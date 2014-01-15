@@ -1,0 +1,12 @@
+{
+    "name": "calendar",
+    "version": "0.0.1",
+    "description": "Calendar CouchApp by Mattis Pasch, contains common views",
+    "modules": ["lib", "views"],
+    "load": "lib/app",
+    "dependencies": {
+        "modules": null,
+        "properties": null,
+        "moment" : "*"
+    }
+}
